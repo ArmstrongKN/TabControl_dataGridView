@@ -1,0 +1,11 @@
+C:\Users\Alunos\Desktop\tabControl\tabControl\obj\Debug\tabControl.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\tabControl\tabControl\obj\Debug\tabControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\tabControl\tabControl\obj\Debug\tabControl.Form1.resources
+C:\Users\Alunos\Desktop\tabControl\tabControl\obj\Debug\tabControl.Properties.Resources.resources
+C:\Users\Alunos\Desktop\tabControl\tabControl\obj\Debug\tabControl.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\tabControl\tabControl\obj\Debug\tabControl.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\tabControl\tabControl\bin\Debug\tabControl.exe.config
+C:\Users\Alunos\Desktop\tabControl\tabControl\bin\Debug\tabControl.exe
+C:\Users\Alunos\Desktop\tabControl\tabControl\bin\Debug\tabControl.pdb
+C:\Users\Alunos\Desktop\tabControl\tabControl\obj\Debug\tabControl.exe
+C:\Users\Alunos\Desktop\tabControl\tabControl\obj\Debug\tabControl.pdb
